@@ -1,0 +1,19 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="E:/Desenvolvimento/node.js/node.exe">
+      <version-cache version="10.15.3" last-modified="1551811258000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="57-152-181-255" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="evlsprt3.183" value="16" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/Aulas Web/SmartBrain&#10;C:/Users/DanielSantos/Desktop/Aulas Web/robotface&#10;C:/Users/DanielSantos/Desktop/Aulas Web/RobotRumblr&#10;C:/Users/DanielSantos/Desktop/Aulas Web/robotboys&#10;C:/Users/DanielSantos/Desktop/Aulas Web/RobotFriend/robofriends&#10;C:/Users/DanielSantos/Desktop/Aulas Web/RobotFriend&#10;C:/Users/DanielSantos/Desktop/Aulas Web/AppWeb&#10;C:/Users/DanielSantos/Desktop/Aulas Web/App&#10;C:/Users/DanielSantos/Desktop/Aulas Web/JavaScripy" />
+    <property name="file.gist.reindex.count" value="50223" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
